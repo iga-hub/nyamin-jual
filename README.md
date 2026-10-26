@@ -1,2 +1,0 @@
-# nyamin-jual
-website jualan
